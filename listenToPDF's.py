@@ -4,7 +4,6 @@ from PyPDF2 import PdfReader
 # Insert the name of your PDF file here
 pdf_file = 'my.pdf'
 
-
 def convert_pdf_to_speech(pdf_path, mp3_path):
     try:
         with open(pdf_path, 'rb') as file:
