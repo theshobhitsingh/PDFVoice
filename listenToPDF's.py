@@ -39,6 +39,5 @@ def convert_pdf_to_speech(pdf_path, mp3_path):
         if 'speaker' in globals():
             speaker.stop()
 
-
 mp3_file = 'my.mp3'
 convert_pdf_to_speech(pdf_file, mp3_file)
