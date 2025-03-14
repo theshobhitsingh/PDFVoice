@@ -66,7 +66,6 @@ The PDFVoice is a Python script project  that reads the content of a PDF file an
   - **Solution**: Ensure that `PyPDF2` is installed. You can install it using `pip install PyPDF2`.
 
 ## Contributions
-
 - All the suggestions and contributions are welcomed!
 
 ## Author
