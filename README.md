@@ -70,5 +70,4 @@ The PDFVoice is a Python script project  that reads the content of a PDF file an
 - All the suggestions and contributions are welcomed!
 
 ## Author
-
 This script is build by Me!
